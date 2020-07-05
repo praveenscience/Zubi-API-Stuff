@@ -1,0 +1,23 @@
+{
+  "name": "zubi-api-stuff",
+  "version": "1.0.0",
+  "description": "Zubi API Stuff",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://praveenscience@github.com/praveenscience/Zubi-API-Stuff.git"
+  },
+  "keywords": [
+    "Zubi",
+    "API"
+  ],
+  "author": "Praveen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/praveenscience/Zubi-API-Stuff/issues"
+  },
+  "homepage": "https://github.com/praveenscience/Zubi-API-Stuff#readme"
+}
