@@ -4,6 +4,7 @@
   "description": "Zubi API Stuff",
   "main": "server.js",
   "scripts": {
+    "start": "node server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -19,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/praveenscience/Zubi-API-Stuff/issues"
   },
-  "homepage": "https://github.com/praveenscience/Zubi-API-Stuff#readme"
+  "homepage": "https://github.com/praveenscience/Zubi-API-Stuff#readme",
+  "dependencies": {
+    "nodemon": "^2.0.4"
+  }
 }
